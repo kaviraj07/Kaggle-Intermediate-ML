@@ -7,7 +7,7 @@ Course Link: [Click Here](https://www.kaggle.com/learn/intermediate-machine-lear
 2. Missing Values
 3. Categorical Variables
 4. Pipelines
-5. Cross-Validation#
+5. Cross-Validation
 6. XGBoost
 7. Data Leakage
 
@@ -16,3 +16,4 @@ Course Link: [Click Here](https://www.kaggle.com/learn/intermediate-machine-lear
 2. Scikit-learn
 
 ## Certificate 📜
+- [Link Here](https://www.kaggle.com/learn/certification/kavirajgosaye/intermediate-machine-learning)
